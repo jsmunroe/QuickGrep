@@ -1,0 +1,6 @@
+C:\JSMunroe\QuickGrep\QuickGrep\bin\Release\QuickGrep.dll
+C:\JSMunroe\QuickGrep\QuickGrep\bin\Release\QuickGrep.pdb
+C:\JSMunroe\QuickGrep\QuickGrep\obj\Release\QuickGrep.csprojAssemblyReference.cache
+C:\JSMunroe\QuickGrep\QuickGrep\obj\Release\QuickGrep.csproj.CoreCompileInputs.cache
+C:\JSMunroe\QuickGrep\QuickGrep\obj\Release\QuickGrep.dll
+C:\JSMunroe\QuickGrep\QuickGrep\obj\Release\QuickGrep.pdb

@@ -1,0 +1,10 @@
+C:\JSMunroe\QuickGrep\QuickGrep.Console\bin\Release\QG.exe.config
+C:\JSMunroe\QuickGrep\QuickGrep.Console\bin\Release\QG.exe
+C:\JSMunroe\QuickGrep\QuickGrep.Console\bin\Release\QG.pdb
+C:\JSMunroe\QuickGrep\QuickGrep.Console\bin\Release\QuickGrep.dll
+C:\JSMunroe\QuickGrep\QuickGrep.Console\bin\Release\QuickGrep.pdb
+C:\JSMunroe\QuickGrep\QuickGrep.Console\obj\Release\QuickGrep.Console.csprojAssemblyReference.cache
+C:\JSMunroe\QuickGrep\QuickGrep.Console\obj\Release\QuickGrep.Console.csproj.CoreCompileInputs.cache
+C:\JSMunroe\QuickGrep\QuickGrep.Console\obj\Release\QuickGrep.Console.csproj.CopyComplete
+C:\JSMunroe\QuickGrep\QuickGrep.Console\obj\Release\QG.exe
+C:\JSMunroe\QuickGrep\QuickGrep.Console\obj\Release\QG.pdb

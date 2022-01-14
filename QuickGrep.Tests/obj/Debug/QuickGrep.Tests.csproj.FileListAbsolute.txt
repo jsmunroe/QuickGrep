@@ -1,0 +1,16 @@
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\bin\Debug\QuickGrep.Tests.dll
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\bin\Debug\QuickGrep.Tests.pdb
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\bin\Debug\QuickGrep.dll
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\bin\Debug\QuickGrep.pdb
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\obj\Debug\QuickGrep.Tests.csprojAssemblyReference.cache
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\obj\Debug\QuickGrep.Tests.csproj.CoreCompileInputs.cache
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\obj\Debug\QuickGrep.Tests.csproj.CopyComplete
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\obj\Debug\QuickGrep.Tests.dll
+C:\JSMunroe\QuickGrep\QuickGrep.Tests\obj\Debug\QuickGrep.Tests.pdb

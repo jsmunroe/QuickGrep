@@ -1,0 +1,1821 @@
+"C:\TFS\IOA\AgentWebSite_EPIC\Release\HotFix\Solutions\AdminOnly\Admin\AgentsManage.aspx.cs"
+  Line: 153    Column: 33
+
+"C:\TFS\IOA\IOA.AMS\Dev\Dev1\Solutions\IOA.AMS.Api.Client\Clients\AMSClientFactory.cs"
+  Line: 23    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Dev\Dev1\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 22    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Dev\Dev1\Solutions\IOA.AMS.Tests\ApiClient\ActivitiesClientTests.cs"
+  Line: 29    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Dev\Dev1\Solutions\IOA.AMS.Tests\ApiClient\AttachmentsClientTests.cs"
+  Line: 22    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Dev\Dev1\Solutions\IOA.AMS.Tests\ApiClient\ContactsClientTests.cs"
+  Line: 22    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Main\Solutions\IOA.AMS.Api.Client\Clients\AMSClientFactory.cs"
+  Line: 23    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Main\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 22    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Main\Solutions\IOA.AMS.Tests\ApiClient\ActivitiesClientTests.cs"
+  Line: 29    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Main\Solutions\IOA.AMS.Tests\ApiClient\AttachmentsClientTests.cs"
+  Line: 22    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Main\Solutions\IOA.AMS.Tests\ApiClient\ContactsClientTests.cs"
+  Line: 22    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Release\Hotfix\Solutions\IOA.AMS.Api.Client\Clients\AMSClientFactory.cs"
+  Line: 23    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Release\Hotfix\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 22    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Release\Hotfix\Solutions\IOA.AMS.Tests\ApiClient\ActivitiesClientTests.cs"
+  Line: 29    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Release\Hotfix\Solutions\IOA.AMS.Tests\ApiClient\AttachmentsClientTests.cs"
+  Line: 22    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Release\Hotfix\Solutions\IOA.AMS.Tests\ApiClient\ContactsClientTests.cs"
+  Line: 22    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Release\Release1\Release1.0.0.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 61    Column: 34
+
+"C:\TFS\IOA\IOA.AMS\Release\Release2\Release2.0.0.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 61    Column: 34
+
+"C:\TFS\IOA\IOA.AMS\Release\Release3\Release3.0.0.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 62    Column: 44
+
+"C:\TFS\IOA\IOA.AMS\Release\Release3\Release3.0.1.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 62    Column: 44
+
+"C:\TFS\IOA\IOA.AMS\Release\Release3\Release3.0.2.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 62    Column: 44
+
+"C:\TFS\IOA\IOA.AMS\Release\Release3\Release3.1.0.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 62    Column: 44
+
+"C:\TFS\IOA\IOA.AMS\Release\Release3\Release3.2.0.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 62    Column: 44
+
+"C:\TFS\IOA\IOA.AMS\Release\Release3\Release3.3.0.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 30    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Release\Release3\Release3.3.1.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 30    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Release\Release3\Release3.3.2.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 30    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Release\Release3\Release3.3.3.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 30    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Release\Release4\Release4.0.0.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 30    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Release\Release4\Release4.1.0.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 30    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Release\Release4\Release4.1.1.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 30    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Release\Release4\Release4.2.0.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 30    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Release\Release4\Release4.3.0.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 30    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Release\Release4\Release4.4.0.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 30    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Release\Release4\Release4.5.0.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 30    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Release\Release4\Release4.7.0.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 30    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Release\Release4\Release4.8.0.0\Solutions\IOA.AMS.Api.Client\Clients\AMSClientFactory.cs"
+  Line: 23    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Release\Release4\Release4.8.0.0\Solutions\IOA.AMS.Task.CacheRefresh\Program.cs"
+  Line: 22    Column: 36
+
+"C:\TFS\IOA\IOA.AMS\Release\Release4\Release4.8.0.0\Solutions\IOA.AMS.Tests\ApiClient\ActivitiesClientTests.cs"
+  Line: 29    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Release\Release4\Release4.8.0.0\Solutions\IOA.AMS.Tests\ApiClient\AttachmentsClientTests.cs"
+  Line: 22    Column: 29
+
+"C:\TFS\IOA\IOA.AMS\Release\Release4\Release4.8.0.0\Solutions\IOA.AMS.Tests\ApiClient\ContactsClientTests.cs"
+  Line: 22    Column: 29
+
+"C:\TFS\IOA\IOA.Clients\DevCurrent\DevMain\Solutions\IOA.Clients.ApplicationService\Ams\AmsService.cs"
+  Line: 27    Column: 40
+
+"C:\TFS\IOA\IOA.Clients\DevCurrent\DevMain\Solutions\IOA.Clients.ApplicationService\Ams\AmsService.cs"
+  Line: 49    Column: 40
+
+"C:\TFS\IOA\IOA.Clients\DevCurrent\DevMain\Solutions\IOA.Clients.ApplicationService\Ams\AmsService.cs"
+  Line: 74    Column: 40
+
+"C:\TFS\IOA\IOA.Clients\DevCurrent\DevMain\Solutions\IOA.Clients.ApplicationService\Ams\AmsService.cs"
+  Line: 124    Column: 20
+
+"C:\TFS\IOA\IOA.Clients\DevCurrent\DevMain\Solutions\IOA.Clients.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.Clients\DevCurrent\DevMain\Solutions\IOA.Clients.Tests\Infrastructure\ApiClients\AMSApiTests.cs"
+  Line: 30    Column: 26
+
+"C:\TFS\IOA\IOA.Clients\DevNext\DevMain\Solutions\IOA.Clients.ApplicationService\Ams\AmsService.cs"
+  Line: 27    Column: 40
+
+"C:\TFS\IOA\IOA.Clients\DevNext\DevMain\Solutions\IOA.Clients.ApplicationService\Ams\AmsService.cs"
+  Line: 49    Column: 40
+
+"C:\TFS\IOA\IOA.Clients\DevNext\DevMain\Solutions\IOA.Clients.ApplicationService\Ams\AmsService.cs"
+  Line: 74    Column: 40
+
+"C:\TFS\IOA\IOA.Clients\DevNext\DevMain\Solutions\IOA.Clients.ApplicationService\Ams\AmsService.cs"
+  Line: 124    Column: 20
+
+"C:\TFS\IOA\IOA.Clients\DevNext\DevMain\Solutions\IOA.Clients.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.Clients\DevNext\DevMain\Solutions\IOA.Clients.Tests\Infrastructure\ApiClients\AMSApiTests.cs"
+  Line: 30    Column: 26
+
+"C:\TFS\IOA\IOA.Clients\Main\Solutions\IOA.Clients.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.Clients\Main\Solutions\IOA.Clients.Tests\Infrastructure\ApiClients\AMSApiTests.cs"
+  Line: 30    Column: 26
+
+"C:\TFS\IOA\IOA.Clients\Main\Solutions\IOA.Clients.Web.Mvc\Areas\Administration\Controllers\ClientsController.cs"
+  Line: 265    Column: 74
+
+"C:\TFS\IOA\IOA.Clients\Main\Solutions\IOA.Clients.Web.Mvc\Areas\Administration\Controllers\ClientsController.cs"
+  Line: 356    Column: 44
+
+"C:\TFS\IOA\IOA.Clients\Main\Solutions\IOA.Clients.Web.Mvc\Security\AppSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.Clients\Release\Hotfix\Solutions\IOA.Clients.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.Clients\Release\Hotfix\Solutions\IOA.Clients.Tests\Infrastructure\ApiClients\AMSApiTests.cs"
+  Line: 30    Column: 26
+
+"C:\TFS\IOA\IOA.Clients\Release\Hotfix\Solutions\IOA.Clients.Web.Mvc\Areas\Administration\Controllers\ClientsController.cs"
+  Line: 265    Column: 74
+
+"C:\TFS\IOA\IOA.Clients\Release\Hotfix\Solutions\IOA.Clients.Web.Mvc\Areas\Administration\Controllers\ClientsController.cs"
+  Line: 356    Column: 44
+
+"C:\TFS\IOA\IOA.Clients\Release\Hotfix\Solutions\IOA.Clients.Web.Mvc\Security\AppSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.Clients\Release\Release1\Release1.0.0.0\Solutions\IOA.Clients.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 50    Column: 25
+
+"C:\TFS\IOA\IOA.Clients\Release\Release1\Release1.0.0.0\Solutions\IOA.Clients.Tests\Infrastructure\ApiClients\AMSApiTests.cs"
+  Line: 30    Column: 26
+
+"C:\TFS\IOA\IOA.Clients\Release\Release1\Release1.0.0.0\Solutions\IOA.Clients.Web.Mvc\Areas\Administration\Controllers\ClientsController.cs"
+  Line: 254    Column: 73
+
+"C:\TFS\IOA\IOA.Clients\Release\Release1\Release1.0.0.0\Solutions\IOA.Clients.Web.Mvc\Areas\Administration\Controllers\ClientsController.cs"
+  Line: 333    Column: 44
+
+"C:\TFS\IOA\IOA.Clients\Release\Release1\Release1.0.0.0\Solutions\IOA.Clients.Web.Mvc\Security\AppSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.Clients\Release\Release1\Release1.1.0.0\Solutions\IOA.Clients.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 50    Column: 25
+
+"C:\TFS\IOA\IOA.Clients\Release\Release1\Release1.1.0.0\Solutions\IOA.Clients.Tests\Infrastructure\ApiClients\AMSApiTests.cs"
+  Line: 30    Column: 26
+
+"C:\TFS\IOA\IOA.Clients\Release\Release1\Release1.1.0.0\Solutions\IOA.Clients.Web.Mvc\Areas\Administration\Controllers\ClientsController.cs"
+  Line: 254    Column: 73
+
+"C:\TFS\IOA\IOA.Clients\Release\Release1\Release1.1.0.0\Solutions\IOA.Clients.Web.Mvc\Areas\Administration\Controllers\ClientsController.cs"
+  Line: 333    Column: 44
+
+"C:\TFS\IOA\IOA.Clients\Release\Release1\Release1.1.0.0\Solutions\IOA.Clients.Web.Mvc\Security\AppSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.Clients\Release\Release2\Release2.0.0.0\Solutions\IOA.Clients.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.Clients\Release\Release2\Release2.0.0.0\Solutions\IOA.Clients.Tests\Infrastructure\ApiClients\AMSApiTests.cs"
+  Line: 30    Column: 26
+
+"C:\TFS\IOA\IOA.Clients\Release\Release2\Release2.0.0.0\Solutions\IOA.Clients.Web.Mvc\Areas\Administration\Controllers\ClientsController.cs"
+  Line: 265    Column: 73
+
+"C:\TFS\IOA\IOA.Clients\Release\Release2\Release2.0.0.0\Solutions\IOA.Clients.Web.Mvc\Areas\Administration\Controllers\ClientsController.cs"
+  Line: 344    Column: 44
+
+"C:\TFS\IOA\IOA.Clients\Release\Release2\Release2.0.0.0\Solutions\IOA.Clients.Web.Mvc\Security\AppSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.Operations\DevCurrent\DevMain\Solutions\IOA.Operations.ApplicationService\BaseAMSApplicationService.cs"
+  Line: 54    Column: 20
+
+"C:\TFS\IOA\IOA.Operations\DevNext\DevMain\Solutions\IOA.Operations.ApplicationService\BaseAMSApplicationService.cs"
+  Line: 54    Column: 20
+
+"C:\TFS\IOA\IOA.Operations\Main\Solutions\IOA.Operations.ApplicationService\BaseAMSApplicationService.cs"
+  Line: 54    Column: 20
+
+"C:\TFS\IOA\IOA.Operations\Release\Hotfix\Solutions\IOA.Operations.ApplicationService\BaseAMSApplicationService.cs"
+  Line: 54    Column: 20
+
+"C:\TFS\IOA\IOA.Operations\Release\Release1\Release1.4.0.0\Solutions\IOA.Operations.ApplicationService\BaseAMSApplicationService.cs"
+  Line: 29    Column: 25
+
+"C:\TFS\IOA\IOA.Operations\Release\Release1\Release1.4.0.0\Solutions\IOA.Operations.ApplicationService\SyncTasks\BranchSyncTask.cs"
+  Line: 34    Column: 25
+
+"C:\TFS\IOA\IOA.Operations\Release\Release1\Release1.4.0.0\Solutions\IOA.Operations.ApplicationService\SyncTasks\ProducerAssociationSyncTask.cs"
+  Line: 37    Column: 25
+
+"C:\TFS\IOA\IOA.Operations\Release\Release1\Release1.4.0.0\Solutions\IOA.Operations.ApplicationService\SyncTasks\ProducerSyncTask.cs"
+  Line: 28    Column: 25
+
+"C:\TFS\IOA\IOA.Operations\Release\Release1\Release1.4.0.0\Solutions\IOA.Operations.ApplicationService\SyncTasks\ProducerToAMSSyncTask.cs"
+  Line: 32    Column: 25
+
+"C:\TFS\IOA\IOA.Operations\Release\Release1\Release1.4.0.0\Solutions\IOA.Operations.Web.Mvc\Areas\Administration\Controllers\BranchesController.cs"
+  Line: 226    Column: 33
+
+"C:\TFS\IOA\IOA.Operations\Release\Release1\Release1.5.0.0\Solutions\IOA.Operations.ApplicationService\BaseAMSApplicationService.cs"
+  Line: 29    Column: 25
+
+"C:\TFS\IOA\IOA.Operations\Release\Release1\Release1.5.0.0\Solutions\IOA.Operations.ApplicationService\SyncTasks\BranchSyncTask.cs"
+  Line: 34    Column: 25
+
+"C:\TFS\IOA\IOA.Operations\Release\Release1\Release1.5.0.0\Solutions\IOA.Operations.ApplicationService\SyncTasks\ProducerAssociationSyncTask.cs"
+  Line: 37    Column: 25
+
+"C:\TFS\IOA\IOA.Operations\Release\Release1\Release1.5.0.0\Solutions\IOA.Operations.ApplicationService\SyncTasks\ProducerSyncTask.cs"
+  Line: 28    Column: 25
+
+"C:\TFS\IOA\IOA.Operations\Release\Release1\Release1.5.0.0\Solutions\IOA.Operations.ApplicationService\SyncTasks\ProducerToAMSSyncTask.cs"
+  Line: 32    Column: 25
+
+"C:\TFS\IOA\IOA.Operations\Release\Release1\Release1.5.0.0\Solutions\IOA.Operations.Web.Mvc\Areas\Administration\Controllers\BranchesController.cs"
+  Line: 223    Column: 33
+
+"C:\TFS\IOA\IOA.RiskScore\DevCurrent\DevMain\Solutions\IOA.RiskScore.Job.Agents\DataSynchronization\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\DevCurrent\DevMain\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1481    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\DevCurrent\DevMain\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 901    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\DevCurrent\DevMain\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 250    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\DevNext\DevMain\Solutions\IOA.RiskScore.ApplicationService\Administration\ProducerManagementService.cs"
+  Line: 19    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\DevNext\DevMain\Solutions\IOA.RiskScore.Job.Agents\DataSynchronization\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\DevNext\DevMain\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1481    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\DevNext\DevMain\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 901    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\DevNext\DevMain\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 250    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Main\Solutions\IOA.RiskScore.Job.Agents\DataSynchronization\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Main\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1484    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Main\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 901    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Main\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 250    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Hotfix\Solutions\IOA.RiskScore.Job.Agents\DataSynchronization\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Hotfix\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1484    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Hotfix\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 901    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Hotfix\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 250    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.0.0.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.0.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 229    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.0.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1125    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.0.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 635    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.0.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 185    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.1.0.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.1.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 281    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.1.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1193    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.1.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 635    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.1.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 185    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.10.0.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.10.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 293    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.10.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1394    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.10.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 802    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.10.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 244    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.10.1.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.10.1.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 293    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.10.1.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1394    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.10.1.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 802    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.10.1.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 244    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.0.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 302    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1403    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 802    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 244    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.1.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.1.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 302    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.1.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1403    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.1.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 808    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.1.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 244    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.2.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.2.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 302    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.2.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1403    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.2.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 808    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.2.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 244    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.3.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.3.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 302    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.3.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1403    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.3.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 808    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.3.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 244    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.5.0\Solutions\IOA.RiskScore.ApplicationService\Administration\ProducerManagementService.cs"
+  Line: 19    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.5.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.5.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1389    Column: 11
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.5.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 814    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.5.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 249    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.6.0\Solutions\IOA.RiskScore.ApplicationService\Administration\ProducerManagementService.cs"
+  Line: 19    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.6.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.6.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1388    Column: 11
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.6.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 814    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.11.6.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 249    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.2.0.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.2.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 281    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.2.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1193    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.2.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 635    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.2.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 193    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.3.0.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.3.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 281    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.3.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1379    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.3.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 657    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.3.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 193    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.4.0.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.4.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 281    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.4.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1379    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.4.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 657    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.4.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 193    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.5.0.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.5.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 281    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.5.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1379    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.5.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 657    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.5.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 193    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.6.0.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.6.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 293    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.6.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1394    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.6.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 764    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.6.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 244    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.7.0.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.7.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 293    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.7.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1394    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.7.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 745    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.7.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 244    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 293    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1394    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 754    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 244    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.9.0.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.9.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 293    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.9.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1394    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.9.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 779    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release2\Release2.9.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 244    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskScore.ApplicationService\Administration\ProducerManagementService.cs"
+  Line: 19    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1481    Column: 11
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 904    Column: 11
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 250    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskScore.ApplicationService\Administration\ProducerManagementService.cs"
+  Line: 19    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskScore.ApplicationService\DataSynchronizationTasks\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1481    Column: 11
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 904    Column: 11
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 250    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskScore.ApplicationService\Administration\ProducerManagementService.cs"
+  Line: 19    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskScore.Job.Agents\DataSynchronization\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1481    Column: 11
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 904    Column: 11
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 250    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskScore.ApplicationService\Administration\ProducerManagementService.cs"
+  Line: 19    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskScore.Job.Agents\DataSynchronization\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1481    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 904    Column: 11
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 250    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskScore.ApplicationService\Administration\ProducerManagementService.cs"
+  Line: 19    Column: 29
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskScore.Job.Agents\DataSynchronization\DataSynchronizationTask.cs"
+  Line: 15    Column: 25
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskScore.Web.Mvc\Areas\Administration\Controllers\RiskScoreUsersController.cs"
+  Line: 1481    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompaniesController.cs"
+  Line: 901    Column: 20
+
+"C:\TFS\IOA\IOA.RiskScore\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskScore.Web.Mvc\Controllers\CompanyMigrationLinkController.cs"
+  Line: 250    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\DevCurrent\DevMain\Solutions\IOA.RiskServices.ApplicationService\BaseApplicationService.cs"
+  Line: 64    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\DevCurrent\DevMain\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 403    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\DevCurrent\DevMain\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\DevCurrent\DevMain\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2425    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\DevCurrent\DevMain\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 70    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\DevNext\DevMain\Solutions\IOA.RiskServices.ApplicationService\BaseApplicationService.cs"
+  Line: 64    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\DevNext\DevMain\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 403    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\DevNext\DevMain\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\DevNext\DevMain\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2425    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\DevNext\DevMain\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 70    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Main\Solutions\IOA.RiskServices.ApplicationService\BaseApplicationService.cs"
+  Line: 64    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Main\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 403    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Main\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Main\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2425    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Main\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 70    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Hotfix\Solutions\IOA.RiskServices.ApplicationService\BaseApplicationService.cs"
+  Line: 64    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Hotfix\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 403    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Hotfix\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Hotfix\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2425    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Hotfix\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 70    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.0.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 50    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.0.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 45    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.0.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 16
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 690    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 236    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 122    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.1.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 50    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.1.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 45    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.1.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 16
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 690    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 236    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 122    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.2.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 50    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.2.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 51    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.2.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 47    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.2.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 678    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.2.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 1644    Column: 32
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.2.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 146    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.3.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 50    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.3.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 51    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.3.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 47    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.3.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 678    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.3.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 1727    Column: 32
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.3.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 147    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.4.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 50    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.4.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 51    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.4.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 47    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 678    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 1686    Column: 32
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 147    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.5.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 50    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.5.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 51    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.5.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 47    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 698    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 204    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 1799    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 150    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.6.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 50    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.6.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 51    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.6.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 47    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.6.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 698    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.6.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 204    Column: 37
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.6.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 1848    Column: 32
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.6.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 150    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.7.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 50    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.7.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 51    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.7.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 47    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.7.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 707    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.7.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 205    Column: 37
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.7.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 1850    Column: 32
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.7.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 150    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.8.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 50    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.8.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 51    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.8.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 47    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.8.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 707    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.8.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 207    Column: 37
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.8.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 1979    Column: 32
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.8.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 150    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.8.1.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.8.1.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 50    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.8.1.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.8.1.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 707    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.8.1.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 214    Column: 37
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.8.1.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 1999    Column: 32
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release1\Release1.8.1.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 152    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.0.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.0.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 54    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.0.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 707    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 209    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 1966    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.1.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.1.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 54    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.1.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 707    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 212    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 1973    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.2.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 38    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.2.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 363    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.2.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.2.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 54    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.2.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.2.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 707    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.2.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 267    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.2.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2029    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.2.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.3.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 38    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.3.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 363    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.3.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.3.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 54    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.3.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.3.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 707    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.3.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 267    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.3.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2029    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.3.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.4.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 38    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.4.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 363    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.4.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.4.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 54    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.4.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 707    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 268    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2371    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.5.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 41    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.5.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 366    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.5.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.5.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 54    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.5.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 707    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 269    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2372    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.6.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 41    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.6.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 366    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.6.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.6.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 54    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.6.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.6.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 707    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.6.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 269    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.6.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2372    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.6.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.7.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 41    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.7.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 366    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.7.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.7.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 54    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.7.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.7.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 707    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.7.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 270    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.7.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2373    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.7.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 41    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 366    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 54    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 851    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 910    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 270    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2373    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release2\Release2.8.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 41    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 366    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 54    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 840    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 899    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 281    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2451    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 41    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 366    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 54    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 25    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 829    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 888    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 283    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2305    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 41    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 366    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 54    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 22    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 837    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 896    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 278    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2312    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.2.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 41    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 366    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 54    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 805    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 864    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 285    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2319    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.3.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 41    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 370    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 54    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 805    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 864    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2287    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 69    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.5.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 41    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.5.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 382    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.5.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.5.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.5.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.5.0.0\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 805    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 864    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2358    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 69    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.6.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 41    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.6.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 382    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.6.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.6.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.6.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.6.0.0\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.6.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 805    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.6.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 864    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.6.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2363    Column: 32
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.6.0.0\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 69    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.6.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.7.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 41    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.7.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 388    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.7.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.7.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.7.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.7.0.0\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.7.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 810    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.7.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 869    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.7.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2364    Column: 32
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.7.0.0\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 69    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.7.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 153    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.8.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 42    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.8.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 389    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.8.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.8.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.8.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.8.0.0\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.8.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 810    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.8.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 869    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.8.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2364    Column: 32
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.8.0.0\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 69    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release3\Release3.8.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 156    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.0.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 42    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.0.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 393    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.0.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.0.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.0.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.0.0.0\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 810    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 869    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2363    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 69    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 156    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.10\Solutions\IOA.RiskServices.ApplicationService\AMS\AMSService.cs"
+  Line: 33    Column: 34
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.10\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 42    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.10\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 393    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.10\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.10\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.10\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.10\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.10\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 820    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.10\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2446    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.10\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 69    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.10\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 156    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.4.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 42    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.4.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 393    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.4.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.4.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.4.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.4.0.0\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 819    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 878    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2368    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 69    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.4.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 156    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.5.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 42    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.5.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 393    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.5.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.5.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.5.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.5.0.0\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 819    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 878    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2385    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 69    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.5.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 156    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.7\Solutions\IOA.RiskServices.ApplicationService\AMS\AMSService.cs"
+  Line: 34    Column: 34
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.7\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 42    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.7\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 393    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.7\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.7\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.7\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.7\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.7\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 820    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.7\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2446    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.7\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 69    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.7\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 156    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.8\Solutions\IOA.RiskServices.ApplicationService\AMS\AMSService.cs"
+  Line: 34    Column: 34
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.8\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 42    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.8\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 393    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.8\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.8\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.8\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.8\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.8\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 820    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.8\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2446    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.8\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 69    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.8\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 156    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.9\Solutions\IOA.RiskServices.ApplicationService\AMS\AMSService.cs"
+  Line: 34    Column: 34
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.9\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 42    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.9\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 393    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.9\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.9\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.9\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.9\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.9\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 820    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.9\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2446    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.9\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 69    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release4\Release4.9\Solutions\IOA.RiskServices.Web.Mvc\Security\RiskServicesSecuredBaseController.cs"
+  Line: 156    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.0.0.0\Solutions\IOA.RiskServices.ApplicationService\AMS\AMSService.cs"
+  Line: 33    Column: 34
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.0.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 42    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.0.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 394    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.0.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.0.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.0.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.0.0.0\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 820    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2424    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 70    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.0.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\AppSecuredBaseController.cs"
+  Line: 110    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.1.0.0\Solutions\IOA.RiskServices.ApplicationService\AMS\AMSService.cs"
+  Line: 33    Column: 34
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.1.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 42    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.1.0.0\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 394    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.1.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.1.0.0\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.1.0.0\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.1.0.0\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 820    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2424    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 70    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.1.0.0\Solutions\IOA.RiskServices.Web.Mvc\Security\AppSecuredBaseController.cs"
+  Line: 110    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.3\Solutions\IOA.RiskServices.ApplicationService\AMS\AMSService.cs"
+  Line: 33    Column: 34
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.3\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 42    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.3\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 394    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.3\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.3\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.3\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.3\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.3\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 820    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.3\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2425    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.3\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 70    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.3\Solutions\IOA.RiskServices.Web.Mvc\Security\AppSecuredBaseController.cs"
+  Line: 110    Column: 20
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.5\Solutions\IOA.RiskServices.ApplicationService\AMS\AMSService.cs"
+  Line: 33    Column: 34
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.5\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 42    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.5\Solutions\IOA.RiskServices.ApplicationService\Clients\ClientManagementService.cs"
+  Line: 410    Column: 54
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.5\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseManyToManySyncTask.cs"
+  Line: 49    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.5\Solutions\IOA.RiskServices.ApplicationService\DataSynchronizationTasks\BaseSyncTask.cs"
+  Line: 52    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.5\Solutions\IOA.RiskServices.ApplicationService\Users\UserManagementService.cs"
+  Line: 46    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.5\Solutions\IOA.RiskServices.Job.Agents\BaseTask.cs"
+  Line: 31    Column: 25
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.5\Solutions\IOA.RiskServices.Web.Mvc\Areas\Administration\Controllers\UsersController.cs"
+  Line: 820    Column: 29
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.5\Solutions\IOA.RiskServices.Web.Mvc\Areas\Clients\Controllers\ManagementController.cs"
+  Line: 2425    Column: 44
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.5\Solutions\IOA.RiskServices.Web.Mvc\Controllers\AMSController.cs"
+  Line: 70    Column: 46
+
+"C:\TFS\IOA\IOA.RiskServices\Release\Release5\Release5.5\Solutions\IOA.RiskServices.Web.Mvc\Security\AppSecuredBaseController.cs"
+  Line: 110    Column: 20
+

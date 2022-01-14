@@ -1,0 +1,5 @@
+C:\JSMunroe\QuickGrep\QuickGrep\bin\Debug\QuickGrep.dll
+C:\JSMunroe\QuickGrep\QuickGrep\bin\Debug\QuickGrep.pdb
+C:\JSMunroe\QuickGrep\QuickGrep\obj\Debug\QuickGrep.csproj.CoreCompileInputs.cache
+C:\JSMunroe\QuickGrep\QuickGrep\obj\Debug\QuickGrep.dll
+C:\JSMunroe\QuickGrep\QuickGrep\obj\Debug\QuickGrep.pdb

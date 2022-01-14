@@ -1,0 +1,36 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : ioadom.local
+
+Ethernet adapter Ethernet 3:
+
+   Connection-specific DNS Suffix  . : ioadom.local
+   Link-local IPv6 Address . . . . . : fe80::5c05:c7f1:a214:a604%19
+   IPv4 Address. . . . . . . . . . . : 10.130.6.57
+   Subnet Mask . . . . . . . . . . . : 255.255.252.0
+   Default Gateway . . . . . . . . . : 10.130.4.1
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : home

@@ -1,0 +1,16 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 98DB-6709
+
+ Directory of C:\JSMunroe\QuickGrep\QuickGrep.Tests
+
+11/21/2019  12:27 PM    <DIR>          .
+11/21/2019  12:27 PM    <DIR>          ..
+11/21/2019  11:12 AM    <DIR>          bin
+11/21/2019  12:27 PM             2,364 GrepperTests.cs
+11/21/2019  11:12 AM    <DIR>          obj
+11/21/2019  11:12 AM               228 packages.config
+11/21/2019  11:12 AM    <DIR>          Properties
+11/21/2019  11:17 AM             4,931 QuickGrep.Tests.csproj
+11/21/2019  11:19 AM    <DIR>          Tests
+               3 File(s)          7,523 bytes
+               6 Dir(s)  172,050,128,896 bytes free
